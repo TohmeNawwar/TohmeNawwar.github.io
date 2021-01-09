@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 ```
-[Link to page 2](https://TohmeNawwar.github.io/page2.md)
+[Link to page 2](http://TohmeNawwar.github.io/page2.md)
 ![Image of Spongebob](https://TohmeNawwar.github.io/spongebob.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
