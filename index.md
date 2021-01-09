@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url)
 ```
-![Image of Spongebob](TohmeNawwar.github.io/spongebob.jpg)
+![Image of Spongebob](https://TohmeNawwar.github.io/spongebob.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
