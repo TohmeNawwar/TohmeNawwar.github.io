@@ -23,6 +23,20 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 ```
+# Heading
+## Heading 2
+### Heading 3
+
+**bold** *italic* ~~strikethrough~~ **bold and _italic_** ***all bold and italic***
+
+Quoting Spongebob:
+> Imagination
+
+Quoting Code:
+```
+print(Hello World)
+```
+
 [Link to google](page2.md)
 ![Image of Spongebob](https://TohmeNawwar.github.io/spongebob.jpg)
 
