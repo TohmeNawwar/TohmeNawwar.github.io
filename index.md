@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 ```
-[Link to google](https://www.google.com/)
+[Link to google](page2.md)
 ![Image of Spongebob](https://TohmeNawwar.github.io/spongebob.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
